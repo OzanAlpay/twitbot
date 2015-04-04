@@ -1,5 +1,8 @@
 # twitbot
 
+IMPORTANT !!
+
+Please create a database table Complains before starting that program !!
 
 What is twitbot?
 
